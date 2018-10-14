@@ -9,3 +9,5 @@ latihan 4
 ![alt text](https://github.com/KillBurger/Modul-6/blob/master/Screenshot%20(103).png)
 kuis 1
 ![alt text](https://github.com/KillBurger/Modul-6/blob/master/Screenshot%20(104).png)
+kuis 2
+![alt text](https://github.com/KillBurger/Modul-6/blob/master/Screenshot%20(105).png)
